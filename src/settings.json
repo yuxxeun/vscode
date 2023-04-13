@@ -1,0 +1,62 @@
+{
+    "workbench.editor.showTabs": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Houston",
+    "search.mode": "reuseEditor",
+    "editor.fontSize": 17,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.renderLineHighlight": "none",
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.lineHeight": 29,
+    "bracketPairColorizer.showVerticalScopeLine": false,
+    "editor.tokenColorCustomizations": null,
+    "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+        "source": "PowerShell"
+      },
+      "Command Prompt": {
+        "path": [
+          "${env:windir}\\Sysnative\\cmd.exe",
+          "${env:windir}\\System32\\cmd.exe"
+        ],
+        "args": []
+      },
+      "Git Bash": {
+        "source": "Git Bash"
+      }
+    },
+    "workbench.startupEditor": "none",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "files.autoSave": "onWindowChange",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "explorer.confirmDelete": false,
+    "editor.smoothScrolling": true,
+    "svelte.enable-ts-plugin": true,
+    "editor.guides.indentation": false,
+    "svelte.plugin.svelte.note-new-transformation": false,
+    "update.mode": "start",
+    "window.menuBarVisibility": "toggle",
+    "workbench.layoutControl.enabled": false,
+    "terminal.explorerKind": "external",
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "vscode-pets.petSize": "medium",
+    "vscode-pets.petType": "fox",
+    "vscode-pets.theme": "forest",
+    "vscode-pets.throwBallWithMouse": true,
+    "prettier.enable": false,
+    "editor.formatOnSave": true,
+    "debug.console.fontSize": 17,
+    "markdown.preview.fontSize": 17
+  }
+  
